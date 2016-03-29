@@ -1,0 +1,38 @@
+#!/bin/bash
+
+# Amy App Stack
+# (c)2015 C. Byerley
+# http://develephant.github.io/amy
+
+BASE=$(pwd)
+
+clear
+
+echo ' '
+echo 'Got Awesome? Here it comes...'
+echo ' '
+
+sleep 1
+
+cd $BASE
+npm install
+
+clear
+
+echo ' '
+echo 'More awesomeness, please wait...'
+echo ' '
+
+sleep 1
+
+cd $BASE/client
+bower install
+
+clear
+
+cd $BASE
+
+echo ' '
+echo 'You got Amy. Amy is Awesome!'
+echo 'Code Awesome! Says Amy. Bye.'
+echo ' '

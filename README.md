@@ -9,3 +9,8 @@
 - [Amy App Stack](https://github.com/develephant/Amy)
 - [AngularJS](https://angularjs.org/)
 - [Electron](http://electron.atom.io/)
+
+
+## Learning Resources
+- [Javascript Books](https://github.com/getify/You-Dont-Know-JS)
+- [AnuglarJs Tutorial](https://thinkster.io/a-better-way-to-learn-angularjs)
